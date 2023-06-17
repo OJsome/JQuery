@@ -1,0 +1,13 @@
+.big-text-with-color-pink{
+    color: pink;
+    font-size: 7rem;
+    font-family: cursive;
+}
+
+.margin-60{
+    margin: 60;
+}
+
+.someclass{
+    font-weight: bolder;
+}
